@@ -1,6 +1,6 @@
 # win32-direct2d
 
-this is a functioning minimal win32 app that uses Direct2D to draw a few things on screen. the decommended code to load images may not work because i'm not sure if microsoft cares if it works. Direct2D is kind of nowheresville.
+this is a functioning minimal win32 app that uses Direct2D to draw a few things on screen. avert your gaze from the decommented code intending to load images and dream not. i'm not sure if microsoft cares if it works or knows it's supposed to.
 
 basically my life of intraculturality has made me fear other peoples' code. i will spazz and break your things before accepting an unnecessary SDK or layer between code and access. it's like the way people think python is great when it's just wrong. maybe convenience and death equate huh, did you ever think of that huh.
 
